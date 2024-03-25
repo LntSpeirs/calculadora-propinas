@@ -2,7 +2,9 @@
 
 Proyecto para practicar Typescript:
 
+- Vite
 - Typescript
-- Tailwind
+- Tailwind CSS
 - React
-- useState, useMemo, hooks personalizados
+- useState, useMemo y useCallback para ver sus diferencias, hooks personalizados
+- Mejoras en rendimiento renderizando solo lo necesario
