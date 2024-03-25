@@ -3,5 +3,6 @@
 Proyecto para practicar Typescript:
 
 - Typescript
-- React
 - Tailwind
+- React
+- useState, useMemo, hooks personalizados
